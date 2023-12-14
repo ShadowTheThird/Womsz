@@ -1,4 +1,4 @@
-ifile = open("E:\Programowanie\Womsz\zadania_3\zadanie_1\sekwencja.txt", "r")
+ifile = open("sekwencja.txt", "r")
 
 def GC(seq: str):
     counter = 0
